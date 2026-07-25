@@ -1,0 +1,5 @@
+Model,Augmentation,Test Accuracy
+TinyVGG (scratch),No,0.9390
+TinyVGG (scratch),Yes,0.9207
+MobileNetV2 (fine-tuned),No,0.8595
+MobileNetV2 (fine-tuned),Yes,0.8472
